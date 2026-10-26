@@ -1,0 +1,1201 @@
+source,target,weight
+Tarkan,Kenan Doğulu,0.815845
+Tarkan,Serdar Ortaç,0.972243
+Tarkan,Mustafa Sandal,0.991062
+Tarkan,Hande Yener,0.808116
+Tarkan,Murat Dalkılıç,0.622179
+Tarkan,Murat Boz,0.779426
+Tarkan,Sertab Erener,0.719312
+Tarkan,Gülşen,0.688566
+Tarkan,Sezen Aksu,0.679984
+Tarkan,Edis,0.823666
+Tarkan,Kayahan,0.683661
+Tarkan,Mirkelam,0.6948
+Tarkan,Rafet El Roman,0.673019
+Tarkan,Oğuzhan Koç,0.553436
+Kenan Doğulu,Murat Dalkılıç,0.841612
+Kenan Doğulu,Serdar Ortaç,0.957757
+Kenan Doğulu,Hande Yener,0.682167
+Kenan Doğulu,Mustafa Sandal,1.0
+Kenan Doğulu,Sertab Erener,0.723514
+Kenan Doğulu,Bengü,0.663055
+Kenan Doğulu,Murat Boz,0.670217
+Kenan Doğulu,Sezen Aksu,0.671855
+Kenan Doğulu,Nazan Öncel,0.651974
+Kenan Doğulu,Nil Karaibrahimgil,0.763726
+Kenan Doğulu,Levent Yüksel,0.826592
+Kenan Doğulu,Hepsi,0.688085
+Kenan Doğulu,Kayahan,0.753692
+Kenan Doğulu,Manifest,0.588163
+Kenan Doğulu,Mirkelam,0.977329
+Kenan Doğulu,Rafet El Roman,0.746338
+Kenan Doğulu,Gökhan Türkmen,0.758355
+Kenan Doğulu,Oğuzhan Koç,1.0
+Kenan Doğulu,Mazhar Alanson,0.763035
+Serdar Ortaç,Hande Yener,0.697986
+Serdar Ortaç,Ebru Gündeş,0.971994
+Serdar Ortaç,Mustafa Sandal,0.969282
+Serdar Ortaç,Bengü,0.800087
+Serdar Ortaç,Gülşen,0.776707
+Serdar Ortaç,Murat Boz,0.69423
+Serdar Ortaç,Sertab Erener,0.691264
+Serdar Ortaç,Gülben Ergen,0.721522
+Serdar Ortaç,Sibel Can,0.64787
+Serdar Ortaç,Rafet El Roman,0.612096
+Mustafa Sandal,Hande Yener,0.893759
+Mustafa Sandal,Murat Boz,0.647412
+Mustafa Sandal,Murat Dalkılıç,0.880039
+Mustafa Sandal,Aşkın Nur Yengi,0.730862
+Mustafa Sandal,Bengü,0.758679
+Mustafa Sandal,Levent Yüksel,0.778736
+Mustafa Sandal,Edis,0.832779
+Mustafa Sandal,Nalan,0.658723
+Mustafa Sandal,Mirkelam,0.669242
+Mustafa Sandal,Rafet El Roman,0.892228
+Mustafa Sandal,Orhan Gencebay,0.392323
+Hande Yener,Gülşen,1.0
+Hande Yener,Bengü,0.896085
+Hande Yener,Hadise,1.0
+Hande Yener,Murat Dalkılıç,0.756572
+Hande Yener,Simge,0.859494
+Hande Yener,Sertab Erener,0.779682
+Hande Yener,Murat Boz,0.743363
+Hande Yener,Sezen Aksu,0.67393
+Hande Yener,Ebru Gündeş,0.793982
+Hande Yener,Ziynet Sali,0.889878
+Hande Yener,Göksel,0.681869
+Hande Yener,Nil Karaibrahimgil,0.779506
+Hande Yener,Gülben Ergen,1.0
+Hande Yener,Sibel Can,0.638522
+Hande Yener,Deniz Seki,1.0
+Hande Yener,Atiye,0.844819
+Hande Yener,Edis,1.0
+Hande Yener,Hepsi,0.796122
+Hande Yener,Derya Uluğ,0.661937
+Hande Yener,Zeynep Bastık,0.712757
+Hande Yener,Manifest,0.767004
+Hande Yener,Nalan,0.540237
+Hande Yener,Aleyna Tilki,1.0
+Hande Yener,AYDEED,0.642236
+Hande Yener,Merve Özbey,0.716024
+Hande Yener,Mabel Matiz,0.771018
+Hande Yener,Oğuzhan Koç,0.581633
+Murat Dalkılıç,Bengü,1.0
+Murat Dalkılıç,Murat Boz,1.0
+Murat Dalkılıç,Simge,0.797289
+Murat Dalkılıç,Gülşen,0.628824
+Murat Dalkılıç,Ziynet Sali,0.692126
+Murat Dalkılıç,Göksel,0.6409
+Murat Dalkılıç,Gülben Ergen,0.81937
+Murat Dalkılıç,Atiye,0.613216
+Murat Dalkılıç,Merve Özbey,0.613046
+Murat Dalkılıç,Mabel Matiz,0.782897
+Murat Dalkılıç,Rafet El Roman,0.597041
+Murat Dalkılıç,Gökhan Türkmen,1.0
+Murat Dalkılıç,Oğuzhan Koç,0.755968
+Murat Boz,Bengü,0.86457
+Murat Boz,Hadise,0.896151
+Murat Boz,Gülşen,0.633307
+Murat Boz,Simge,0.718562
+Murat Boz,Ziynet Sali,0.870895
+Murat Boz,Gülben Ergen,0.737477
+Murat Boz,Deniz Seki,0.742622
+Murat Boz,Edis,0.943201
+Murat Boz,Aleyna Tilki,0.63834
+Murat Boz,Rafet El Roman,0.735057
+Murat Boz,Gökhan Türkmen,0.847352
+Murat Boz,Oğuzhan Koç,0.639204
+Sertab Erener,Sezen Aksu,1.0
+Sertab Erener,Göksel,1.0
+Sertab Erener,Candan Erçetin,1.0
+Sertab Erener,Nazan Öncel,0.926572
+Sertab Erener,Aşkın Nur Yengi,0.923449
+Sertab Erener,Nil Karaibrahimgil,1.0
+Sertab Erener,Şebnem Ferah,0.841328
+Sertab Erener,Hadise,0.702781
+Sertab Erener,Nilüfer,0.657503
+Sertab Erener,Ajda Pekkan,0.689283
+Sertab Erener,Funda Arar,0.805345
+Sertab Erener,Deniz Seki,0.838713
+Sertab Erener,Levent Yüksel,0.836502
+Sertab Erener,Atiye,0.613532
+Sertab Erener,Hepsi,0.669615
+Sertab Erener,Model,0.817522
+Sertab Erener,Manifest,0.61978
+Sertab Erener,Ayten Alpman,0.447902
+Sertab Erener,Semiramis Pekkan,0.36023
+Sertab Erener,Mirkelam,0.698518
+Sertab Erener,AYDEED,0.442887
+Sertab Erener,Mabel Matiz,0.954412
+Sertab Erener,Pinhani,0.685627
+Sertab Erener,Sena Şener,0.778119
+Sertab Erener,Nova Norda,0.699811
+Sertab Erener,Melike Şahin,0.690673
+Sertab Erener,Gökhan Türkmen,0.738486
+Sertab Erener,Müslüm Gürses,0.500134
+Sertab Erener,Ahmet Kaya,0.534966
+Sertab Erener,Sufle,0.864444
+Sertab Erener,Selin,0.663471
+Sertab Erener,Hümeyra,0.605384
+Sertab Erener,Mazhar Alanson,0.62513
+Sertab Erener,Perdenin Ardındakiler,0.63506
+Gülşen,Bengü,0.860579
+Gülşen,Hadise,0.927706
+Gülşen,Simge,0.811868
+Gülşen,Ziynet Sali,0.918439
+Gülşen,Gülben Ergen,0.950662
+Gülşen,Ebru Gündeş,0.80507
+Gülşen,Sibel Can,0.770379
+Gülşen,Funda Arar,0.566099
+Gülşen,Atiye,0.756084
+Gülşen,Edis,0.999964
+Gülşen,Hepsi,0.559125
+Gülşen,Derya Uluğ,0.67175
+Gülşen,Manifest,0.655059
+Gülşen,Aleyna Tilki,0.788897
+Gülşen,Merve Özbey,0.690365
+Sezen Aksu,Nilüfer,0.889559
+Sezen Aksu,Ajda Pekkan,0.879911
+Sezen Aksu,Göksel,0.875946
+Sezen Aksu,Nazan Öncel,1.0
+Sezen Aksu,Aşkın Nur Yengi,0.951716
+Sezen Aksu,Ebru Gündeş,0.693398
+Sezen Aksu,Candan Erçetin,0.882353
+Sezen Aksu,Nil Karaibrahimgil,0.697883
+Sezen Aksu,Şebnem Ferah,0.76997
+Sezen Aksu,Funda Arar,0.590678
+Sezen Aksu,Deniz Seki,0.74109
+Sezen Aksu,Levent Yüksel,1.0
+Sezen Aksu,Ayten Alpman,0.593804
+Sezen Aksu,Semiramis Pekkan,0.508362
+Sezen Aksu,Zerrin Özer,0.927492
+Sezen Aksu,Erol Evgin,0.780701
+Sezen Aksu,Mirkelam,0.653795
+Sezen Aksu,Mabel Matiz,1.0
+Sezen Aksu,Emir Can İğrek,0.86945
+Sezen Aksu,Mert Demir,0.87937
+Sezen Aksu,Ayla Dikmen,0.661114
+Sezen Aksu,Gülden Karaböcek,0.810379
+Sezen Aksu,Melike Şahin,0.736704
+Sezen Aksu,Esmeray,0.664661
+Sezen Aksu,Kamuran Akkor,0.725992
+Sezen Aksu,Neşe Karaböcek,0.478963
+Sezen Aksu,Müslüm Gürses,0.778095
+Sezen Aksu,Ahmet Kaya,0.832673
+Sezen Aksu,Selda Bağcan,0.692746
+Sezen Aksu,İbrahim Tatlıses,0.463168
+Sezen Aksu,Hümeyra,0.918723
+Sezen Aksu,Zeki Müren,1.0
+Sezen Aksu,Ezginin Günlüğü,0.330382
+Sezen Aksu,Mazhar Alanson,0.626658
+Bengü,Simge,1.0
+Bengü,Ziynet Sali,0.982397
+Bengü,Ebru Gündeş,0.915948
+Bengü,Hadise,0.768601
+Bengü,Göksel,0.689385
+Bengü,Gülben Ergen,0.982169
+Bengü,Sibel Can,0.621461
+Bengü,Deniz Seki,0.780104
+Bengü,Atiye,0.843515
+Bengü,Derya Uluğ,0.829907
+Bengü,Zeynep Bastık,0.774273
+Bengü,Manifest,0.607596
+Bengü,Nalan,0.560181
+Bengü,Aleyna Tilki,0.69862
+Bengü,Merve Özbey,1.0
+Bengü,Mabel Matiz,0.790788
+Bengü,Gülden Karaböcek,0.610117
+Bengü,Melike Şahin,0.680131
+Bengü,Gökhan Türkmen,0.764871
+Bengü,Semicenk,0.465778
+Bengü,Kamuran Akkor,0.605495
+Bengü,Müslüm Gürses,0.493392
+Bengü,Sufle,0.845318
+Bengü,Oğuzhan Koç,0.714645
+Bengü,Sefo,0.43233
+Ebru Gündeş,Sibel Can,1.0
+Ebru Gündeş,Gülben Ergen,0.732599
+Ebru Gündeş,Merve Özbey,0.659585
+Ebru Gündeş,Mert Demir,0.741658
+Ebru Gündeş,Semicenk,0.561163
+Ebru Gündeş,Ferdi Tayfur,0.300749
+Ebru Gündeş,Müslüm Gürses,0.523709
+Ebru Gündeş,Zara,0.542529
+Ebru Gündeş,İbrahim Tatlıses,0.768248
+Aşkın Nur Yengi,Funda Arar,1.0
+Aşkın Nur Yengi,Nilüfer,0.782578
+Aşkın Nur Yengi,Ajda Pekkan,0.716018
+Aşkın Nur Yengi,Nazan Öncel,0.796022
+Aşkın Nur Yengi,Deniz Seki,0.956374
+Aşkın Nur Yengi,Levent Yüksel,0.939907
+Aşkın Nur Yengi,Candan Erçetin,0.833284
+Aşkın Nur Yengi,Kayahan,0.839019
+Aşkın Nur Yengi,Zerrin Özer,0.81344
+Aşkın Nur Yengi,Nalan,1.0
+Aşkın Nur Yengi,Mirkelam,0.850929
+Aşkın Nur Yengi,Rafet El Roman,0.663705
+Aşkın Nur Yengi,Yeni Türkü,0.457112
+Hadise,Atiye,1.0
+Hadise,Edis,0.961878
+Hadise,Simge,0.708378
+Hadise,Hepsi,0.786963
+Hadise,Derya Uluğ,0.686883
+Hadise,Aleyna Tilki,0.892656
+Hadise,AYDEED,0.781503
+Simge,Derya Uluğ,1.0
+Simge,Ziynet Sali,0.982162
+Simge,Zeynep Bastık,1.0
+Simge,Sibel Can,0.524995
+Simge,Edis,0.806582
+Simge,Manifest,0.589274
+Simge,Aleyna Tilki,0.81846
+Simge,Merve Özbey,0.783112
+Simge,Mert Demir,0.782906
+Simge,Semicenk,0.546804
+Simge,Reynmen,0.465636
+Simge,Oğuzhan Koç,0.612769
+Simge,Sefo,0.65149
+Ziynet Sali,Derya Uluğ,0.803739
+Ziynet Sali,Gülben Ergen,0.802501
+Ziynet Sali,Sibel Can,0.590843
+Ziynet Sali,Zeynep Bastık,0.701103
+Ziynet Sali,Nalan,0.795496
+Ziynet Sali,Merve Özbey,0.703914
+Göksel,Gripin,0.676606
+Göksel,Nil Karaibrahimgil,0.832737
+Göksel,Model,0.765369
+Göksel,Candan Erçetin,0.785029
+Göksel,Nazan Öncel,0.730377
+Göksel,Mirkelam,0.682382
+Göksel,Mabel Matiz,0.764269
+Göksel,Esmeray,0.807954
+Göksel,Sufle,0.816022
+Göksel,Jakuzi,0.215077
+Candan Erçetin,Funda Arar,0.858169
+Candan Erçetin,Ajda Pekkan,0.780161
+Candan Erçetin,Nazan Öncel,0.707975
+Candan Erçetin,Deniz Seki,0.805476
+Candan Erçetin,Nilüfer,0.681463
+Candan Erçetin,Nil Karaibrahimgil,0.679109
+Candan Erçetin,Zerrin Özer,0.663227
+Candan Erçetin,Orhan Gencebay,0.316614
+Nazan Öncel,Nilüfer,0.678352
+Nazan Öncel,Levent Yüksel,0.971919
+Nazan Öncel,Ajda Pekkan,0.730463
+Nazan Öncel,Kayahan,0.960841
+Nazan Öncel,Nil Karaibrahimgil,0.622713
+Nazan Öncel,Zerrin Özer,0.769464
+Nazan Öncel,Erol Evgin,0.58362
+Nazan Öncel,Yeni Türkü,0.42237
+Nazan Öncel,Ezginin Günlüğü,0.309644
+Nil Karaibrahimgil,Hepsi,0.748528
+Nil Karaibrahimgil,Ajda Pekkan,0.701665
+Nil Karaibrahimgil,Manifest,0.628879
+Nil Karaibrahimgil,Semiramis Pekkan,0.357249
+Nil Karaibrahimgil,AYDEED,0.561922
+Nil Karaibrahimgil,Nova Norda,0.646646
+Nil Karaibrahimgil,Yasemin Mori,0.838347
+Şebnem Ferah,Teoman,0.895741
+Şebnem Ferah,Duman,0.745352
+Şebnem Ferah,Mor ve Ötesi,0.736164
+Şebnem Ferah,Model,1.0
+Şebnem Ferah,Hayko Cepkin,0.807232
+Şebnem Ferah,Pilli Bebek,0.803067
+Şebnem Ferah,Redd,0.853014
+Şebnem Ferah,Ayten Alpman,0.432091
+Şebnem Ferah,Vega,0.904432
+Şebnem Ferah,Sena Şener,0.793834
+Şebnem Ferah,Yasemin Mori,0.892622
+Şebnem Ferah,Barış Akarsu,0.99809
+Gülben Ergen,Deniz Seki,0.890387
+Gülben Ergen,Sibel Can,0.591724
+Gülben Ergen,Nalan,0.565817
+Nilüfer,Ajda Pekkan,1.0
+Nilüfer,Ayten Alpman,0.672945
+Nilüfer,Semiramis Pekkan,0.662125
+Nilüfer,Zerrin Özer,1.0
+Nilüfer,Erol Evgin,1.0
+Nilüfer,Levent Yüksel,0.862586
+Nilüfer,Funda Arar,0.575598
+Nilüfer,Kayahan,0.939991
+Nilüfer,Nalan,0.592886
+Nilüfer,Ayla Dikmen,0.758873
+Nilüfer,Gülden Karaböcek,0.655953
+Nilüfer,Esmeray,0.767106
+Nilüfer,Neşe Karaböcek,0.506666
+Nilüfer,Zara,0.615992
+Nilüfer,Ahmet Kaya,0.514298
+Nilüfer,Hümeyra,1.0
+Nilüfer,Zeki Müren,0.90865
+Nilüfer,Yeni Türkü,0.537844
+Nilüfer,Ezginin Günlüğü,0.327419
+Ajda Pekkan,Semiramis Pekkan,0.867163
+Ajda Pekkan,Ayten Alpman,0.692232
+Ajda Pekkan,Deniz Seki,0.967936
+Ajda Pekkan,Zerrin Özer,0.979752
+Ajda Pekkan,Erol Evgin,0.970875
+Ajda Pekkan,Kayahan,0.732761
+Ajda Pekkan,Ayla Dikmen,0.779684
+Ajda Pekkan,Barış Manço,0.420009
+Ajda Pekkan,Esmeray,0.722776
+Ajda Pekkan,Neşe Karaböcek,0.510453
+Ajda Pekkan,Hümeyra,0.932336
+Ajda Pekkan,Zeki Müren,0.995035
+Ajda Pekkan,Yeni Türkü,0.555411
+Sibel Can,Ferdi Tayfur,0.440081
+Sibel Can,Zara,0.777048
+Sibel Can,İbrahim Tatlıses,0.488251
+Sibel Can,Orhan Gencebay,0.426415
+Funda Arar,Deniz Seki,0.806117
+Funda Arar,Nalan,0.987503
+Levent Yüksel,Mirkelam,0.982425
+Levent Yüksel,Kayahan,1.0
+Levent Yüksel,Zerrin Özer,0.674435
+Levent Yüksel,Nalan,0.553487
+Levent Yüksel,Rafet El Roman,0.696238
+Levent Yüksel,Yeni Türkü,0.490423
+Levent Yüksel,Mazhar Alanson,0.593966
+Atiye,Hepsi,0.986817
+Atiye,Manifest,0.750404
+Atiye,Edis,0.580844
+Atiye,AYDEED,0.77321
+Edis,Zeynep Bastık,0.804565
+Edis,Aleyna Tilki,0.80402
+Edis,Manifest,0.603666
+Edis,Mert Demir,0.815818
+Edis,Semicenk,0.56731
+Edis,Selin,0.531108
+Edis,Reynmen,0.576024
+Edis,Sefo,0.487409
+Hepsi,Manifest,1.0
+Hepsi,AYDEED,1.0
+Hepsi,Aleyna Tilki,0.631754
+Derya Uluğ,Zeynep Bastık,0.775785
+Derya Uluğ,Merve Özbey,0.663202
+Derya Uluğ,Semicenk,0.515259
+Derya Uluğ,Reynmen,0.697115
+Derya Uluğ,Sefo,0.65374
+Zeynep Bastık,Mabel Matiz,0.703819
+Zeynep Bastık,Aleyna Tilki,0.735755
+Zeynep Bastık,Emir Can İğrek,0.957762
+Zeynep Bastık,Mert Demir,0.998884
+Zeynep Bastık,AYDEED,0.584118
+Zeynep Bastık,M Lisa,0.686724
+Zeynep Bastık,Nova Norda,0.616944
+Zeynep Bastık,Melike Şahin,0.720711
+Zeynep Bastık,Selin,0.784276
+Zeynep Bastık,Reynmen,0.672035
+Zeynep Bastık,Sefo,0.728918
+Gripin,Yüksek Sadakat,1.0
+Gripin,Seksendört,1.0
+Gripin,Emre Aydın,1.0
+Gripin,Kolpa,1.0
+Gripin,Duman,0.636226
+Gripin,Umut Kaya,0.8067
+Gripin,Mor ve Ötesi,0.709939
+Gripin,Manga,0.795922
+Gripin,Model,0.822973
+Gripin,Pinhani,0.684448
+Gripin,Sena Şener,0.729117
+Gripin,Dedublüman,0.837442
+Gripin,Zakkum,1.0
+Gripin,Mavi Gri,0.996973
+Gripin,Can Bonomo,0.752945
+Gripin,Sufle,0.811438
+Gripin,Madrigal,0.537564
+Model,Mor ve Ötesi,0.88696
+Model,Manga,0.835148
+Model,Duman,0.87089
+Model,Teoman,0.699784
+Model,Seksendört,0.701914
+Model,Kolpa,0.76007
+Model,Emre Aydın,0.621163
+Model,Sena Şener,0.72327
+Model,Nova Norda,0.602808
+Model,Dolu Kadehi Ters Tut,0.540823
+Model,Zakkum,0.874846
+Kayahan,Mirkelam,0.775491
+Kayahan,Zerrin Özer,0.656407
+Manifest,Aleyna Tilki,0.919214
+Teoman,Duman,0.846096
+Teoman,Mor ve Ötesi,0.746998
+Teoman,Yüksek Sadakat,0.855881
+Teoman,Pinhani,0.889981
+Teoman,Redd,0.902369
+Teoman,Pilli Bebek,0.780786
+Teoman,Manga,0.802008
+Teoman,Hayko Cepkin,0.630432
+Teoman,Emre Aydın,0.622428
+Teoman,Vega,0.865087
+Teoman,Zakkum,0.840783
+Teoman,Mavi Gri,0.720405
+Teoman,son feci bisiklet,0.509695
+Teoman,Yaşlı Amca,0.404983
+Teoman,Malt,0.4793
+Teoman,Yavuz Çetin,0.574774
+Teoman,Flört,0.674654
+Teoman,Haluk Levent,0.503181
+Teoman,Bülent Ortaçgil,0.421077
+Teoman,Yasemin Mori,1.0
+Teoman,Feridun Düzağaç,1.0
+Duman,Mor ve Ötesi,1.0
+Duman,Yüksek Sadakat,0.949763
+Duman,Manga,1.0
+Duman,Adamlar,0.90298
+Duman,Pilli Bebek,0.880792
+Duman,Pinhani,0.91812
+Duman,Hayko Cepkin,0.82946
+Duman,Redd,0.759146
+Duman,Seksendört,0.78151
+Duman,Kolpa,0.616164
+Duman,Umut Kaya,0.805967
+Duman,Ogün Sanlısoy,0.806519
+Duman,Cem Karaca,0.47338
+Duman,Barış Manço,0.428252
+Duman,Dedublüman,0.67768
+Duman,Dolu Kadehi Ters Tut,0.566315
+Duman,Mavi Gri,0.868285
+Duman,son feci bisiklet,0.71329
+Duman,Yaşlı Amca,0.57735
+Duman,Can Bonomo,0.739216
+Duman,Haluk Levent,0.5049
+Duman,Kargo,0.942334
+Duman,Palmiyeler,0.425075
+Mor ve Ötesi,Adamlar,1.0
+Mor ve Ötesi,Pilli Bebek,0.910701
+Mor ve Ötesi,Hayko Cepkin,0.857979
+Mor ve Ötesi,Manga,0.95284
+Mor ve Ötesi,Yüksek Sadakat,0.842682
+Mor ve Ötesi,Redd,0.93685
+Mor ve Ötesi,Pinhani,0.839776
+Mor ve Ötesi,Seksendört,0.720269
+Mor ve Ötesi,Umut Kaya,0.738298
+Mor ve Ötesi,Çilekeş,0.821204
+Mor ve Ötesi,Ogün Sanlısoy,0.760519
+Mor ve Ötesi,Kurban,0.540945
+Mor ve Ötesi,Sakin,0.906083
+Mor ve Ötesi,Vega,0.897354
+Mor ve Ötesi,Dolu Kadehi Ters Tut,0.53664
+Mor ve Ötesi,son feci bisiklet,0.628443
+Mor ve Ötesi,Yaşlı Amca,0.482962
+Mor ve Ötesi,Can Bonomo,0.733888
+Mor ve Ötesi,Malt,0.522991
+Mor ve Ötesi,Yavuz Çetin,0.699748
+Mor ve Ötesi,Flört,0.708684
+Mor ve Ötesi,Bulutsuzluk Özlemi,0.667212
+Mor ve Ötesi,Kargo,0.974972
+Mor ve Ötesi,Yasemin Mori,0.770484
+Hayko Cepkin,Pilli Bebek,1.0
+Hayko Cepkin,Çilekeş,0.882989
+Hayko Cepkin,Redd,0.868694
+Hayko Cepkin,Ogün Sanlısoy,0.843432
+Hayko Cepkin,Kurban,0.551906
+Hayko Cepkin,Adamlar,0.626389
+Hayko Cepkin,Umut Kaya,0.679701
+Hayko Cepkin,Sakin,0.631859
+Hayko Cepkin,Malt,0.544212
+Hayko Cepkin,Yavuz Çetin,0.683737
+Hayko Cepkin,Barış Akarsu,0.877106
+Hayko Cepkin,Feridun Düzağaç,0.700298
+Hayko Cepkin,Soft Analog,0.68001
+Pilli Bebek,Redd,1.0
+Pilli Bebek,Adamlar,0.772439
+Pilli Bebek,Çilekeş,0.798397
+Pilli Bebek,Sakin,0.845921
+Pilli Bebek,Kurban,0.583588
+Pilli Bebek,Vega,0.856551
+Pilli Bebek,Malt,0.571778
+Pilli Bebek,Yavuz Çetin,0.737975
+Pilli Bebek,Flört,0.720198
+Pilli Bebek,Hardal,0.612252
+Pilli Bebek,Bulutsuzluk Özlemi,0.731372
+Pilli Bebek,Palmiyeler,0.487104
+Pilli Bebek,Feridun Düzağaç,0.743769
+Redd,Adamlar,0.743772
+Redd,Çilekeş,0.788732
+Redd,Vega,1.0
+Redd,Sakin,0.813903
+Redd,Kurban,0.415792
+Redd,Sena Şener,0.73048
+Redd,Malt,0.552635
+Redd,Yavuz Çetin,0.679702
+Redd,Flört,0.75413
+Redd,Bulutsuzluk Özlemi,0.654908
+Redd,Kargo,0.742128
+Redd,Palmiyeler,0.491557
+Ayten Alpman,Semiramis Pekkan,1.0
+Ayten Alpman,Ayla Dikmen,0.981804
+Ayten Alpman,Erol Evgin,0.779259
+Ayten Alpman,Gülden Karaböcek,0.72561
+Ayten Alpman,Cem Karaca,0.434398
+Ayten Alpman,Mavi Işıklar,0.50081
+Ayten Alpman,Esmeray,1.0
+Ayten Alpman,Kamuran Akkor,0.577404
+Ayten Alpman,Neşe Karaböcek,0.476516
+Ayten Alpman,Müslüm Gürses,0.525927
+Ayten Alpman,Hümeyra,0.860651
+Semiramis Pekkan,Ayla Dikmen,1.0
+Semiramis Pekkan,Erol Evgin,0.922254
+Semiramis Pekkan,Barış Manço,0.366655
+Semiramis Pekkan,Mavi Işıklar,0.566119
+Semiramis Pekkan,Esmeray,0.932051
+Semiramis Pekkan,Kamuran Akkor,0.591163
+Semiramis Pekkan,Neşe Karaböcek,0.46773
+Semiramis Pekkan,Ahmet Kaya,0.532985
+Semiramis Pekkan,Hümeyra,0.779806
+Semiramis Pekkan,Zeki Müren,0.712931
+Zerrin Özer,Rafet El Roman,0.89432
+Erol Evgin,Cem Karaca,0.805763
+Erol Evgin,Barış Manço,0.782758
+Erol Evgin,Edip Akbayram,0.722507
+Erol Evgin,Ayla Dikmen,0.598282
+Erol Evgin,Mavi Işıklar,0.465448
+Erol Evgin,Esmeray,0.857577
+Erol Evgin,Ferdi Tayfur,0.177178
+Erol Evgin,Hümeyra,0.718466
+Erol Evgin,Zeki Müren,0.770028
+Mirkelam,Rafet El Roman,1.0
+Aleyna Tilki,Selin,0.62559
+AYDEED,M Lisa,0.715595
+AYDEED,Sena Şener,0.482787
+AYDEED,Nova Norda,0.442516
+Merve Özbey,Oğuzhan Koç,0.554719
+Merve Özbey,Sefo,0.427039
+Mabel Matiz,Melike Şahin,1.0
+Mabel Matiz,Gökhan Türkmen,0.928828
+Mabel Matiz,Emir Can İğrek,0.993651
+Mabel Matiz,Mert Demir,1.0
+Mabel Matiz,Dedublüman,0.752031
+Mabel Matiz,Yüzyüzeyken Konuşuruz,0.470727
+Mabel Matiz,kaan boşnak,0.28428
+Mabel Matiz,Kalben,0.662823
+Mabel Matiz,Evdeki Saat,0.434709
+Mabel Matiz,Madrigal,0.531495
+Mabel Matiz,Jakuzi,0.208227
+Emir Can İğrek,Dedublüman,0.851323
+Emir Can İğrek,Melike Şahin,0.782999
+Emir Can İğrek,Gökhan Türkmen,0.976602
+Emir Can İğrek,Canozan,0.928623
+Emir Can İğrek,Emre Aydın,0.922889
+Emir Can İğrek,Dolu Kadehi Ters Tut,0.912564
+Emir Can İğrek,Semicenk,0.555084
+Emir Can İğrek,Mert Demir,0.714922
+Emir Can İğrek,Reynmen,0.478018
+Emir Can İğrek,Evdeki Saat,0.356772
+Emir Can İğrek,Hedonutopia,0.256266
+Emir Can İğrek,Perdenin Ardındakiler,0.65753
+Mert Demir,Melike Şahin,0.718471
+Mert Demir,Gökhan Türkmen,0.868572
+Mert Demir,Semicenk,0.465914
+Yüksek Sadakat,Pinhani,1.0
+Yüksek Sadakat,Umut Kaya,1.0
+Yüksek Sadakat,Seksendört,0.937602
+Yüksek Sadakat,Manga,0.846888
+Yüksek Sadakat,Ogün Sanlısoy,0.844828
+Yüksek Sadakat,Kolpa,0.851087
+Yüksek Sadakat,Emre Aydın,0.709671
+Yüksek Sadakat,Zakkum,0.863071
+Yüksek Sadakat,Mavi Gri,0.910412
+Yüksek Sadakat,son feci bisiklet,0.508422
+Yüksek Sadakat,Can Bonomo,0.847913
+Yüksek Sadakat,Kargo,0.868469
+Yüksek Sadakat,Barış Akarsu,0.885662
+Yüksek Sadakat,Feridun Düzağaç,0.867313
+Yüksek Sadakat,Mazhar Alanson,0.656984
+Seksendört,Emre Aydın,0.953885
+Seksendört,Kolpa,0.953362
+Seksendört,Manga,0.744907
+Seksendört,Pinhani,0.682207
+Seksendört,Umut Kaya,0.686393
+Seksendört,Ogün Sanlısoy,0.78608
+Seksendört,Dedublüman,0.802418
+Seksendört,Zakkum,0.961653
+Seksendört,Mavi Gri,0.980897
+Seksendört,Haluk Levent,0.462317
+Seksendört,Feridun Düzağaç,0.687127
+Emre Aydın,Kolpa,0.803231
+Emre Aydın,Dedublüman,0.931305
+Emre Aydın,Canozan,0.564559
+Emre Aydın,Zakkum,0.994235
+Emre Aydın,Pinhani,0.591969
+Emre Aydın,Sufle,0.810669
+Emre Aydın,Barış Akarsu,0.830384
+Emre Aydın,Feridun Düzağaç,0.688745
+Emre Aydın,Perdenin Ardındakiler,0.522157
+Kolpa,Manga,0.703593
+Kolpa,Pinhani,0.692618
+Kolpa,Mavi Gri,1.0
+Kolpa,Zakkum,0.937227
+Umut Kaya,Ogün Sanlısoy,1.0
+Umut Kaya,Manga,0.772556
+Umut Kaya,Adamlar,0.652772
+Umut Kaya,Çilekeş,0.613472
+Umut Kaya,Zakkum,0.875023
+Umut Kaya,Mavi Gri,0.749197
+Umut Kaya,Can Bonomo,0.723663
+Umut Kaya,Kargo,0.868694
+Manga,Ogün Sanlısoy,0.778567
+Manga,Barış Akarsu,0.879656
+Pinhani,Adamlar,0.738212
+Pinhani,Dolu Kadehi Ters Tut,0.650845
+Pinhani,Canozan,0.696877
+Pinhani,Zakkum,0.869458
+Pinhani,Mavi Gri,0.888532
+Pinhani,son feci bisiklet,0.5164
+Pinhani,Yaşlı Amca,0.512371
+Pinhani,Can Bonomo,0.725402
+Pinhani,Bülent Ortaçgil,0.332319
+Pinhani,Madrigal,0.566307
+Pinhani,Feridun Düzağaç,0.948033
+Pinhani,Mazhar Alanson,1.0
+Pinhani,Soft Analog,0.628804
+Adamlar,son feci bisiklet,0.936108
+Adamlar,Yaşlı Amca,0.774191
+Adamlar,Yüzyüzeyken Konuşuruz,0.785852
+Adamlar,Dolu Kadehi Ters Tut,0.749302
+Adamlar,Can Bonomo,1.0
+Adamlar,Sakin,0.649963
+Adamlar,Canozan,0.584308
+Adamlar,Zakkum,0.818796
+Adamlar,Evdeki Saat,0.031632
+Adamlar,Palmiyeler,0.593242
+Adamlar,Madrigal,0.75286
+Adamlar,Soft Analog,0.687923
+Çilekeş,Kurban,0.813688
+Çilekeş,Sakin,1.0
+Çilekeş,Malt,0.63427
+Çilekeş,Ogün Sanlısoy,0.833906
+Çilekeş,Vega,0.811952
+Çilekeş,Yavuz Çetin,0.747578
+Çilekeş,Hardal,0.565531
+Ogün Sanlısoy,Kurban,0.558237
+Ogün Sanlısoy,Malt,0.52952
+Ogün Sanlısoy,Vega,0.756049
+Ogün Sanlısoy,Kargo,1.0
+Ogün Sanlısoy,Barış Akarsu,0.761549
+Ogün Sanlısoy,Feridun Düzağaç,0.787841
+Kurban,Malt,1.0
+Kurban,Yavuz Çetin,1.0
+Kurban,Flört,0.999066
+Kurban,Hardal,0.703544
+Kurban,Bulutsuzluk Özlemi,0.737362
+Kurban,Kargo,0.740181
+Sakin,Vega,0.956435
+Sakin,The Away Days,1.0
+Sakin,Büyük Ev Ablukada,1.0
+Sakin,Yavuz Çetin,0.710025
+Sakin,Palmiyeler,0.814788
+Vega,Malt,0.755962
+Vega,Yasemin Mori,0.914006
+Ayla Dikmen,Gülden Karaböcek,0.504356
+Ayla Dikmen,Cem Karaca,0.471801
+Ayla Dikmen,Esmeray,0.739726
+Gülden Karaböcek,Ferdi Tayfur,0.816083
+Gülden Karaböcek,Kamuran Akkor,1.0
+Gülden Karaböcek,Neşe Karaböcek,1.0
+Gülden Karaböcek,Müslüm Gürses,0.58504
+Gülden Karaböcek,Zara,1.0
+Gülden Karaböcek,Esmeray,0.641326
+Gülden Karaböcek,İbrahim Tatlıses,0.49676
+Gülden Karaböcek,Hümeyra,0.601343
+Gülden Karaböcek,Zafer Dilek,0.426329
+Gülden Karaböcek,Neşet Ertaş,0.603964
+Gülden Karaböcek,Zeki Müren,0.775691
+Cem Karaca,Barış Manço,1.0
+Cem Karaca,Erkin Koray,1.0
+Cem Karaca,Haluk Levent,1.0
+Cem Karaca,Mavi Işıklar,1.0
+Cem Karaca,Moğollar,0.926099
+Cem Karaca,Edip Akbayram,1.0
+Cem Karaca,3 Hürel,0.871763
+Cem Karaca,Hardal,0.699782
+Cem Karaca,Selda Bağcan,1.0
+Cem Karaca,Zafer Dilek,0.261311
+Cem Karaca,Barış Akarsu,0.971174
+Barış Manço,Erkin Koray,0.940278
+Barış Manço,Haluk Levent,0.800283
+Barış Manço,Edip Akbayram,0.995527
+Barış Manço,Mavi Işıklar,0.883895
+Barış Manço,3 Hürel,0.784699
+Barış Manço,Neşe Karaböcek,0.416485
+Barış Manço,Moğollar,0.752989
+Barış Manço,Hardal,0.552618
+Barış Manço,Selda Bağcan,0.918148
+Barış Manço,Zülfü Livaneli,0.68171
+Barış Manço,Zafer Dilek,0.308602
+Barış Manço,Zeki Müren,0.938784
+Barış Manço,Barış Akarsu,0.895232
+Barış Manço,Baba Zula,0.36656
+Mavi Işıklar,Erkin Koray,0.627822
+Mavi Işıklar,Moğollar,0.65744
+Mavi Işıklar,Hardal,0.686527
+Mavi Işıklar,3 Hürel,0.566175
+Mavi Işıklar,Hedonutopia,0.339114
+Edip Akbayram,Erkin Koray,0.554368
+Edip Akbayram,Ahmet Kaya,0.762784
+Edip Akbayram,Selda Bağcan,0.975847
+Edip Akbayram,Haluk Levent,0.492921
+Edip Akbayram,Zülfü Livaneli,0.725303
+Edip Akbayram,Esmeray,0.635562
+Edip Akbayram,Moğollar,0.541539
+Edip Akbayram,Ezginin Günlüğü,0.401011
+M Lisa,Sena Şener,1.0
+M Lisa,Sufle,0.92417
+M Lisa,Dolu Kadehi Ters Tut,0.688771
+M Lisa,Selin,0.868015
+M Lisa,Nova Norda,0.863017
+M Lisa,Ati242,0.485396
+M Lisa,Ezhel,0.502505
+M Lisa,Canozan,0.584721
+M Lisa,Perdenin Ardındakiler,0.574791
+M Lisa,Soft Analog,0.591893
+Sena Şener,Dolu Kadehi Ters Tut,0.598194
+Sena Şener,Canozan,0.608183
+Sena Şener,Sufle,0.883354
+Sena Şener,Yüzyüzeyken Konuşuruz,0.713535
+Sena Şener,Nova Norda,0.901156
+Sena Şener,Yaşlı Amca,0.45312
+Sena Şener,Selin,0.791816
+Sena Şener,Jakuzi,0.219682
+Sena Şener,Perdenin Ardındakiler,0.732292
+Nova Norda,Selin,1.0
+Nova Norda,Dolu Kadehi Ters Tut,0.886118
+Nova Norda,Can Bonomo,0.66591
+Nova Norda,Sufle,0.632518
+Nova Norda,Hedonutopia,0.268956
+Nova Norda,Soft Analog,0.756018
+Melike Şahin,Gökhan Türkmen,0.68569
+Melike Şahin,Yüzyüzeyken Konuşuruz,0.671334
+Melike Şahin,Hedonutopia,0.282884
+Gökhan Türkmen,Canozan,0.754356
+Gökhan Türkmen,Yüzyüzeyken Konuşuruz,0.513841
+Gökhan Türkmen,kaan boşnak,0.363543
+Gökhan Türkmen,Kalben,0.657126
+Gökhan Türkmen,Perdenin Ardındakiler,0.608221
+Dedublüman,Canozan,0.67456
+Dedublüman,BLOK3,0.640602
+Dedublüman,Mavi Gri,0.979415
+Dedublüman,Yüzyüzeyken Konuşuruz,0.738065
+Dedublüman,Reynmen,0.488942
+Dedublüman,Evdeki Saat,0.253647
+Dedublüman,Hedonutopia,0.178803
+Dedublüman,Perdenin Ardındakiler,0.78962
+Canozan,Dolu Kadehi Ters Tut,0.834368
+Canozan,Yüzyüzeyken Konuşuruz,0.750431
+Canozan,kaan boşnak,0.556885
+Canozan,Sufle,1.0
+Canozan,Selin,0.5393
+Canozan,Kalben,0.793516
+Canozan,Madrigal,0.691864
+Canozan,Perdenin Ardındakiler,1.0
+Dolu Kadehi Ters Tut,Yaşlı Amca,1.0
+Dolu Kadehi Ters Tut,Yüzyüzeyken Konuşuruz,0.750798
+Dolu Kadehi Ters Tut,son feci bisiklet,0.753508
+Dolu Kadehi Ters Tut,Can Bonomo,0.880783
+Dolu Kadehi Ters Tut,Büyük Ev Ablukada,0.507267
+Dolu Kadehi Ters Tut,Sufle,0.873492
+Dolu Kadehi Ters Tut,Selin,0.502757
+Dolu Kadehi Ters Tut,Madrigal,0.660469
+Semicenk,BLOK3,1.0
+Semicenk,Reynmen,0.78706
+Semicenk,Oğuzhan Koç,0.548513
+Semicenk,İbrahim Tatlıses,0.521577
+Zakkum,Mavi Gri,0.781482
+Mavi Gri,Madrigal,0.547776
+son feci bisiklet,Yaşlı Amca,0.894256
+son feci bisiklet,Yüzyüzeyken Konuşuruz,0.685241
+son feci bisiklet,Kalben,1.0
+son feci bisiklet,Büyük Ev Ablukada,0.78995
+son feci bisiklet,kaan boşnak,0.465429
+son feci bisiklet,Palmiyeler,0.51573
+Yaşlı Amca,Yüzyüzeyken Konuşuruz,0.704203
+Yaşlı Amca,Can Bonomo,0.698481
+Yaşlı Amca,Büyük Ev Ablukada,0.322542
+Yüzyüzeyken Konuşuruz,kaan boşnak,1.0
+Yüzyüzeyken Konuşuruz,Evdeki Saat,1.0
+Yüzyüzeyken Konuşuruz,Can Bonomo,0.7712
+Yüzyüzeyken Konuşuruz,Büyük Ev Ablukada,0.599855
+Yüzyüzeyken Konuşuruz,Sufle,0.863086
+Yüzyüzeyken Konuşuruz,Kalben,0.970915
+Yüzyüzeyken Konuşuruz,Hedonutopia,0.587124
+Yüzyüzeyken Konuşuruz,Madrigal,1.0
+Yüzyüzeyken Konuşuruz,Jakuzi,0.438012
+Yüzyüzeyken Konuşuruz,Perdenin Ardındakiler,0.702009
+Can Bonomo,Kalben,0.529326
+Malt,Flört,0.850741
+Malt,Yavuz Çetin,0.647364
+Malt,Bulutsuzluk Özlemi,0.634808
+Malt,Kargo,0.867849
+Malt,Yasemin Mori,0.877079
+Yavuz Çetin,Bulutsuzluk Özlemi,0.911108
+Yavuz Çetin,Yasemin Mori,0.811872
+Flört,Bulutsuzluk Özlemi,1.0
+Flört,Kargo,0.770947
+Flört,Hardal,0.667366
+Flört,Bülent Ortaçgil,0.517333
+Flört,Palmiyeler,0.434443
+Flört,Mazhar Alanson,0.622998
+The Away Days,Hedonutopia,1.0
+The Away Days,Palmiyeler,0.182174
+The Away Days,Büyük Ev Ablukada,0.139932
+The Away Days,Gus Black,0.09273
+The Away Days,Vlad Holiday,0.077126
+The Away Days,Blonde Redhead,0.075298
+The Away Days,Other Lives,0.064467
+The Away Days,Half Moon Run,0.057377
+The Away Days,Aaron,0.055902
+Büyük Ev Ablukada,Yasemin Mori,0.872608
+Büyük Ev Ablukada,kaan boşnak,0.235418
+Büyük Ev Ablukada,Second,0.255463
+Büyük Ev Ablukada,Rehber,0.145056
+Büyük Ev Ablukada,Kalben,0.775694
+Ferdi Tayfur,Müslüm Gürses,1.0
+Ferdi Tayfur,Kamuran Akkor,0.868307
+Ferdi Tayfur,İbrahim Tatlıses,0.695763
+Ferdi Tayfur,Orhan Gencebay,0.669721
+Ferdi Tayfur,Hümeyra,0.28856
+Ferdi Tayfur,Cengiz Kurtoğlu,0.191148
+Kamuran Akkor,Müslüm Gürses,0.707213
+Kamuran Akkor,Orhan Gencebay,1.0
+Kamuran Akkor,İbrahim Tatlıses,0.594092
+Kamuran Akkor,Neşe Karaböcek,0.611038
+Kamuran Akkor,Zara,0.719745
+Kamuran Akkor,Selda Bağcan,0.6803
+Kamuran Akkor,Zeki Müren,0.875566
+Neşe Karaböcek,Zafer Dilek,1.0
+Neşe Karaböcek,Erkin Koray,0.511816
+Müslüm Gürses,İbrahim Tatlıses,1.0
+Müslüm Gürses,Ahmet Kaya,0.802369
+Müslüm Gürses,Zara,0.620302
+Müslüm Gürses,Orhan Gencebay,0.664129
+Zara,Orhan Gencebay,0.666161
+Zara,Neşet Ertaş,0.65658
+Zara,İbrahim Tatlıses,0.665446
+Zara,Zeki Müren,0.539865
+Erkin Koray,3 Hürel,1.0
+Erkin Koray,Moğollar,1.0
+Erkin Koray,Hardal,1.0
+Erkin Koray,Selda Bağcan,0.896229
+Erkin Koray,Haluk Levent,0.482439
+Erkin Koray,Zülfü Livaneli,0.596173
+Erkin Koray,Zafer Dilek,0.562932
+Erkin Koray,Zeki Müren,0.85233
+Erkin Koray,Baba Zula,0.590197
+Haluk Levent,Barış Akarsu,1.0
+Haluk Levent,3 Hürel,0.389718
+Moğollar,3 Hürel,0.728775
+Moğollar,Selda Bağcan,0.698344
+Moğollar,Baba Zula,1.0
+Moğollar,Zülfü Livaneli,0.405867
+Moğollar,Hardal,0.44161
+Moğollar,Bülent Ortaçgil,0.350919
+Moğollar,Zafer Dilek,0.456385
+Moğollar,Neşet Ertaş,0.444421
+3 Hürel,Hardal,0.575184
+3 Hürel,Zafer Dilek,0.604044
+3 Hürel,Selda Bağcan,0.363422
+Ahmet Kaya,Zülfü Livaneli,1.0
+Ahmet Kaya,Selda Bağcan,0.910337
+Ahmet Kaya,İbrahim Tatlıses,0.640287
+Ahmet Kaya,Kalben,0.635409
+Ahmet Kaya,Neşet Ertaş,0.876545
+Ahmet Kaya,Ezginin Günlüğü,0.342495
+Selda Bağcan,Zülfü Livaneli,0.664811
+Selda Bağcan,Neşet Ertaş,1.0
+Zülfü Livaneli,Yeni Türkü,0.533647
+Zülfü Livaneli,Ezginin Günlüğü,0.477542
+Zülfü Livaneli,Orhan Gencebay,0.542351
+Zülfü Livaneli,Neşet Ertaş,0.595875
+Sufle,Selin,0.501544
+Sufle,kaan boşnak,0.321069
+Sufle,Kalben,0.740325
+Sufle,Perdenin Ardındakiler,0.723231
+Ati242,OrGANIZE,1.0
+Ati242,BLOK3,0.89986
+Ati242,Ezhel,0.704012
+Ati242,Lil Zey,0.554498
+Ati242,Ben Fero,0.879646
+Ati242,ceg,0.430937
+Ati242,Murda,0.583402
+Ati242,Lvbel C5,0.538926
+Ati242,BEGE,0.525785
+Ati242,Gazapizm,0.60574
+Ezhel,Lil Zey,1.0
+Ezhel,ceg,0.722096
+Ezhel,Khontkar,0.808867
+Ezhel,Murda,0.908805
+Ezhel,BEGE,0.923276
+Ezhel,Cakal,0.853856
+Ezhel,Ben Fero,0.998533
+Ezhel,Ceza,0.565045
+Ezhel,Abugat,0.551877
+Ezhel,OrGANIZE,0.353805
+Ezhel,Gazapizm,0.645747
+BLOK3,Eypio,1.0
+BLOK3,Cakal,0.775313
+BLOK3,OrGANIZE,0.551422
+BLOK3,Sefo,0.708751
+BLOK3,Gazapizm,0.785867
+BLOK3,Lvbel C5,0.544678
+BLOK3,Murda,0.523402
+BLOK3,Reynmen,0.620309
+BLOK3,Lil Zey,0.271019
+kaan boşnak,Evdeki Saat,0.679829
+kaan boşnak,Kalben,0.715949
+kaan boşnak,İkiye On Kala,0.10398
+kaan boşnak,Madrigal,0.740646
+Reynmen,Sefo,1.0
+Reynmen,Murda,0.52275
+Oğuzhan Koç,OrGANIZE,0.209433
+Kalben,Lil Zey,0.242075
+Evdeki Saat,İkiye On Kala,0.128453
+Evdeki Saat,Bengü Beker,0.05165
+Evdeki Saat,Sedef sebüktekin,0.041951
+Evdeki Saat,Madrigal,0.673837
+Bulutsuzluk Özlemi,Kargo,0.631556
+Kargo,Feridun Düzağaç,0.76767
+Bülent Ortaçgil,Yeni Türkü,0.442145
+Bülent Ortaçgil,Orhan Gencebay,0.584099
+Bülent Ortaçgil,Mazhar Alanson,0.659105
+Bülent Ortaçgil,Ezginin Günlüğü,0.369555
+Hedonutopia,Jakuzi,0.599261
+Hedonutopia,Palmiyeler,0.585495
+Hedonutopia,Perdenin Ardındakiler,0.246351
+Palmiyeler,Jakuzi,0.757477
+Palmiyeler,Soft Analog,0.581382
+Gus Black,Lilium,0.691013
+Gus Black,Jesse Marchant,0.678755
+Gus Black,Aaron,0.64198
+Gus Black,Devics,0.617407
+Gus Black,Matt Elliott,0.611693
+Gus Black,Vlad Holiday,0.475475
+Gus Black,Dan Wilson,0.468734
+Gus Black,Loner Deer,0.468481
+Gus Black,Tamino,0.434757
+Gus Black,Patrick Watson,0.420222
+Vlad Holiday,Flower Face,1.0
+Vlad Holiday,Alexandra Savior,0.934504
+Vlad Holiday,Cemeteries,0.800867
+Vlad Holiday,johnny goth,0.787086
+Vlad Holiday,Acid Ghost,0.744852
+Vlad Holiday,Ruby Haunt,0.685988
+Vlad Holiday,The Neighbourhood,0.678882
+Vlad Holiday,Ghostly Kisses,0.59798
+Vlad Holiday,"Dream, Ivory",0.569413
+Vlad Holiday,Beach Weather,0.524598
+Blonde Redhead,Autolux,1.0
+Blonde Redhead,Electrelane,0.847648
+Blonde Redhead,PJ Harvey,0.829333
+Blonde Redhead,Yo La Tengo,0.780564
+Blonde Redhead,Interpol,0.767798
+Blonde Redhead,Broadcast,0.7401
+Blonde Redhead,Grandaddy,0.702823
+Blonde Redhead,Warpaint,0.695734
+Blonde Redhead,Yeah Yeah Yeahs,0.689723
+Blonde Redhead,Kazu,0.675865
+Other Lives,Midlake,1.0
+Other Lives,Jesse Marchant,0.908121
+Other Lives,Shearwater,0.83631
+Other Lives,Junip,0.744619
+Other Lives,The Veils,0.658773
+Other Lives,Wye Oak,0.633786
+Other Lives,Zola Blood,0.606223
+Other Lives,Half Moon Run,0.902289
+Other Lives,Girls in Hawaii,0.544885
+Other Lives,Patrick Watson,0.528333
+Other Lives,Lilium,0.311884
+Half Moon Run,The Barr Brothers,1.0
+Half Moon Run,Manchester Orchestra,0.869161
+Half Moon Run,Junip,0.840915
+Half Moon Run,Patrick Watson,0.819852
+Half Moon Run,Local Natives,0.8051
+Half Moon Run,Leif Vollebekk,0.803077
+Half Moon Run,Balthazar,0.781528
+Half Moon Run,Bombay Bicycle Club,0.751767
+Half Moon Run,The Boxer Rebellion,0.720502
+Aaron,Yodelice,1.0
+Aaron,Cascadeur,0.778137
+Aaron,Cocoon,0.699423
+Aaron,Cats on Trees,0.681166
+Aaron,Lilly Wood & The Prick,0.680807
+Aaron,Saez,0.628973
+Aaron,FAUVE,0.592985
+Aaron,KiD WISE,0.585799
+Aaron,Talisco,0.577383
+Aaron,Kid Francescoli,0.543136
+Yasemin Mori,Soft Analog,0.710966
+Second,Viva Suecia,1.0
+Second,Lori Meyers,0.834462
+Second,Vetusta Morla,0.694618
+Second,Shinova,0.693563
+Second,Supersubmarina,0.688898
+Second,Arde Bogotá,0.633731
+Second,Love of Lesbian,0.631207
+Second,Izal,0.609546
+Second,Miss Caffeina,0.569805
+Second,Sidonie,0.558995
+Rehber,Henry the Lee,1.0
+Rehber,Ars Longa,0.605305
+Rehber,Açık Seçik Aşk Bandosu,0.571797
+Rehber,Neyse,0.517144
+Rehber,İnsan Mıyız,0.489603
+Rehber,Sunset Stream,0.437138
+Rehber,Bozukçalar,0.4347
+Rehber,Batu Akdeniz,0.420857
+Rehber,Yok Öyle Kararlı Şeyler,0.394302
+Rehber,rody dünyada,0.392245
+İbrahim Tatlıses,Zeki Müren,0.450341
+İbrahim Tatlıses,Neşet Ertaş,0.591884
+Orhan Gencebay,Zeki Müren,0.42367
+Hümeyra,Ezginin Günlüğü,0.384
+Cengiz Kurtoğlu,Güllü,1.0
+Cengiz Kurtoğlu,Atilla Kaya,0.885949
+Cengiz Kurtoğlu,Ümit Besen,0.84705
+Cengiz Kurtoğlu,Bergen,0.813689
+Cengiz Kurtoğlu,Azer Bülbül,0.708751
+Cengiz Kurtoğlu,İbrahim Erkal,0.69925
+Cengiz Kurtoğlu,Arap Şükrü,0.67998
+Cengiz Kurtoğlu,Hakan Taşıyan,0.639128
+Cengiz Kurtoğlu,Tüdanya,0.595841
+Cengiz Kurtoğlu,Kibariye,0.555272
+Zafer Dilek,Altin Gün,0.320768
+Zafer Dilek,Baba Zula,0.497546
+Zafer Dilek,Gaye Su Akyol,0.231029
+Neşet Ertaş,Volkan Konak,0.661008
+Neşet Ertaş,Musa Eroğlu,0.483792
+Neşet Ertaş,Özdemir Erdoğan,0.473719
+Zeki Müren,Yeni Türkü,0.724124
+Baba Zula,Gaye Su Akyol,0.617812
+Baba Zula,Mercan Dede,0.608534
+Baba Zula,Ayyuka,0.428048
+Baba Zula,LALALAR,0.34392
+Baba Zula,Derya Yıldırım & Grup Şimşek,0.321895
+Baba Zula,Altin Gün,0.291087
+Yeni Türkü,Ezginin Günlüğü,1.0
+OrGANIZE,Murda,0.612224
+OrGANIZE,Ben Fero,0.353493
+OrGANIZE,BEGE,0.308024
+OrGANIZE,Sefo,0.281219
+OrGANIZE,Gazapizm,0.2373
+OrGANIZE,Lil Zey,0.23601
+Lil Zey,ceg,0.659008
+Lil Zey,BEGE,0.969731
+Lil Zey,Murda,0.452902
+Lil Zey,Abugat,0.323549
+Lil Zey,Allame,0.322379
+Lil Zey,Ben Fero,0.271761
+Lil Zey,Gazapizm,0.266915
+Lil Zey,Khontkar,0.681733
+Lil Zey,Cakal,0.535425
+Ben Fero,Ceza,0.612514
+Ben Fero,Sansar Salvo,0.995197
+Ben Fero,ceg,0.391588
+Ben Fero,Gazapizm,0.736797
+Ben Fero,Şehinşah,0.715084
+Ben Fero,Lvbel C5,0.500535
+Ben Fero,norm ender,0.680685
+Ben Fero,Cakal,0.665386
+Ben Fero,Eypio,0.151305
+ceg,Şehinşah,1.0
+ceg,Khontkar,1.0
+ceg,Baneva,0.745471
+ceg,Allame,0.735536
+ceg,BEGE,0.751329
+ceg,yung ouzo,0.446226
+ceg,Abugat,0.396839
+Murda,Lvbel C5,1.0
+Murda,Khontkar,0.680439
+Murda,yung ouzo,0.739997
+Murda,Cakal,0.73254
+Murda,Sefo,0.76545
+Murda,BEGE,0.646991
+Murda,Eypio,0.395761
+Murda,Gazapizm,0.593018
+Lvbel C5,Era7capone,0.909847
+Lvbel C5,batuflex,0.886541
+Lvbel C5,Cakal,0.90321
+Lvbel C5,yung ouzo,0.573819
+Lvbel C5,Khontkar,0.535542
+Lvbel C5,BEGE,0.402254
+Lvbel C5,Eypio,0.181237
+BEGE,yung ouzo,1.0
+BEGE,Cakal,0.804652
+BEGE,Khontkar,0.60211
+BEGE,Baneva,0.682518
+BEGE,DEHA INC.,0.531576
+BEGE,Abugat,0.385395
+Khontkar,Şehinşah,0.97812
+Khontkar,yung ouzo,0.831514
+Khontkar,Şam,0.804956
+Khontkar,Baneva,0.734268
+Khontkar,Abugat,0.613004
+Khontkar,Eypio,0.187587
+Cakal,batuflex,1.0
+Cakal,Era7capone,0.820882
+Cakal,DEHA INC.,0.753182
+Cakal,yung ouzo,0.546725
+Cakal,Abugat,0.364342
+Cakal,Eypio,0.186702
+Ceza,Sagopa Kajmer,1.0
+Ceza,norm ender,0.840379
+Ceza,Sansar Salvo,0.806822
+Ceza,Diyar Pala,0.656519
+Ceza,Gazapizm,1.0
+Ceza,Allame,0.619729
+Ceza,Şehinşah,0.412022
+Ceza,No.1,0.393196
+Ceza,Eypio,0.305911
+Abugat,Şam,1.0
+Abugat,yung ouzo,0.695685
+Abugat,Sansar Salvo,0.422164
+Abugat,Şehinşah,0.402627
+Abugat,Baneva,0.400311
+Abugat,Eypio,0.048286
+Eypio,Sagopa Kajmer,0.229961
+Eypio,Sansar Salvo,0.168387
+Gazapizm,Sagopa Kajmer,0.773992
+Gazapizm,Saian,0.770306
+Gazapizm,norm ender,0.754115
+Gazapizm,Sansar Salvo,0.563913
+İkiye On Kala,Bağzıları,1.0
+İkiye On Kala,yedinci ev,0.815625
+İkiye On Kala,Can Koç,0.749984
+İkiye On Kala,Rei 6,0.657021
+İkiye On Kala,Tuna Kiremitçi,0.647942
+İkiye On Kala,Can Kazaz,0.643342
+İkiye On Kala,Sedef sebüktekin,0.649222
+İkiye On Kala,KÖFN,0.630285
+İkiye On Kala,Melek Mosso,0.579731
+İkiye On Kala,Kaset,0.572053
+Bengü Beker,KÖFN,0.936206
+Bengü Beker,İzel,0.882722
+Bengü Beker,Anıl Durmuş,0.872042
+Bengü Beker,İrem Derici,0.869959
+Bengü Beker,Melek Mosso,0.860402
+Bengü Beker,Derya Bedavacı,0.830445
+Bengü Beker,Melis Fis,0.817796
+Bengü Beker,Ahmet Hatipoğlu,0.799012
+Bengü Beker,Burak Bulut,0.762529
+Sedef sebüktekin,Ekin Beril,1.0
+Sedef sebüktekin,Deniz Tekin,0.973049
+Sedef sebüktekin,Dilan Balkay,0.874638
+Sedef sebüktekin,Nilipek.,0.825313
+Sedef sebüktekin,Selin Çıngır,0.773294
+Sedef sebüktekin,Simge Pınar,0.743584
+Sedef sebüktekin,Can Kazaz,0.607744
+Sedef sebüktekin,Paptircem,0.582378
+Sedef sebüktekin,Karsu,0.55292
+Feridun Düzağaç,Mazhar Alanson,0.647404
+Jakuzi,Lin Pesto,1.0
+Jakuzi,Soft Analog,1.0
+Jakuzi,LALALAR,0.213695
+Jakuzi,Brek,0.198356
+Soft Analog,Lin Pesto,0.759184
+Lilium,Matt Elliott,1.0
+Lilium,Woven Hand,0.920003
+Lilium,16 Horsepower,0.696218
+Lilium,Slim Cessna's Auto Club,0.45339
+Lilium,Munly & the Lee Lewis Harlots,0.430941
+Lilium,The Handsome Family,0.410945
+Lilium,Jay Munly,0.405388
+Lilium,Steve Von Till,0.338825
